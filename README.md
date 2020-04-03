@@ -10,4 +10,3 @@ You will probably often see me reorganizing it and if you want to have your own 
 
 [Books](BOOKS.md)
 [Links](LINKS.md)
-[Courses][COURSES.md]
