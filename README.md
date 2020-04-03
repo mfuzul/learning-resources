@@ -9,4 +9,5 @@ You will probably often see me reorganizing it and if you want to have your own 
 ## Resources
 
 [Books](BOOKS.md)
+
 [Links](LINKS.md)
